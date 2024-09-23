@@ -30,7 +30,7 @@ describe('Teste da lista de tarefas', () => {
     // Simula entrada de texto
     taskInput.value = 'Estudar Jest';
 
-    // Simula clique no botão "Adicionar"
+    // Simula o clique no botão "Adicionar"
     addTaskBtn.click();
 
     // Verifica se a tarefa foi adicionada à lista
